@@ -1,0 +1,33 @@
+[start]
+Suddenly the interactive help system for the choose your own adventure engine
+appears before your eyes. What did you want help with?
+
+[[usage     ]] Learn about how to read a story with the CYOA engine.
+[[creation  ]] Learn about how to write new stories for the CYOA engine.
+[[python    ]] Learn about how the CYOA engine works. (not written yet)
+
+[usage]
+
+
+When navigating the story, type the number of the option you want to choose
+(and press enter) to continue on to the page corresponding to that option.
+There are several other commands also available to you:
+    Type 'back' to rewind to the previous page; this can be used repeatedly.
+    Type 'quit' or 'exit' to leave the program.
+    Type 'help' to go to the help screen.
+    Type 'refresh' to redisplay the current page.
+Each of the above commands can be shortened to the first letter.
+
+
+[creation]
+To write a new choose your own adventure story, create a plain text document in
+which to type your story. Each page of the story needs a unique name. Begin
+each page with a single line containing only the text "[pagename]" with no
+extra spaces at the beginning or end of the line. After this line, write the
+contents of the page; these will be displayed exactly as you typed, except for
+any links contained in that page.
+
+
+
+[python]
+This help page hasn't been written yet! Type "back" to go back.

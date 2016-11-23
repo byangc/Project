@@ -1,0 +1,24 @@
+[start]
+
+This is a sample story used to test my CYOA engine
+
+[[start2]] Going into a new page
+
+
+[start2]
+
+This page will contain 2 selections for demonstration purposes
+/*the options will be represented with numbers instead of the explicit links */
+[[optionA]] I will select option A.
+[[optionB]] I will select option B.
+
+[optionB]
+
+Eventually you grow bored and leave.
+
+THE END
+
+
+[optionA]
+And so the adventure continues ...
+ 
