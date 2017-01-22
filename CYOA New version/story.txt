@@ -1,0 +1,22 @@
+﻿
+[0]
+Where do you want to start? 
+(1) Cabin 
+(2) Forest 
+(3) Cave  
+(4) River
+
+If selected [1]:
+ 	Today is the big day! Your friends arranged a hiking trip to celebrate the end of the school year, and you are all staying in your crushís family cabin. Your only supervision is the house cat, Franklin, and heís not even around that often. Everyone woke up fresh and excited but not you. This morning, you woke up quite sick! Oh, no. Do you want to:
+      (99) Go to the store for medicine, maybe you can join them when you get back.
+      (5) Stay in the cabin. Your friends will hike without you while you recover.
+      
+If selected [99]
+	You head out early, before your friends leave for the trail, and drive in the direction you think is towards the local convenience store to pick up cold medicine. You want to be in tip-top shape for this hike. Music blaring through the speakers, you are slow to notice the sputtering coming from the engine of your momís ten year old minivan, and you drift to a stop on the side of a road whose name you cannot recall. Unable to get the car to start, you have three options:
+	(7) Walk to the store, it cannot be that far away.
+	(8) Stay in the car. The world is a scary place, and you are very alone and very lost.
+	(9) Walk back to the cabin.  You can only be sure of the way you came, but, then again, it is no easy, or short, walk.
+
+If selected [7]
+	Which way, which way?
+	
